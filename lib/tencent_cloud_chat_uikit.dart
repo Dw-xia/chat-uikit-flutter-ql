@@ -8,7 +8,7 @@ export 'data_services/core/core_services_implements.dart';
 export 'package:tencent_im_base/theme/tui_theme.dart';
 export 'package:tencent_im_base/theme/color.dart';
 
-// Sticker1
+// Sticker12
 export 'package:tim_ui_kit_sticker_plugin/tim_ui_kit_sticker_plugin.dart';
 
 // Widgets
